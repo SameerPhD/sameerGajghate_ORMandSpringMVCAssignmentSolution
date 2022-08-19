@@ -1,6 +1,6 @@
 # Graded Coding Assignment 5 - Customer Relationship Management
 
-This repo contains the project **Back-End Development Graded Coding Assignment 5 - Customer Relationship Management**. This is a  Spring MVC application developed for [**E&ICT IIT Roorkee: Advanced Certificate Program in Full Stack Software Development**](https://www.greatlearning.in/advanced-certification-full-stack-software-development-iit-roorkee) certification.
+This repo contains the project **Back-End Development Graded Coding Assignment 5 - Customer Relationship Management**. This is a  Spring MVC application developed for certification.
 
 
 ## Problem Statement
@@ -40,7 +40,7 @@ The following video shows the responsiveness of **Customer Relationship Manageme
 https://user-images.githubusercontent.com/37581959/158539052-8e39c8fe-30f7-454a-830e-44485984a108.mp4
 
 
-You can also view all the screenshots of the project in [Screenshot of the CRMAssignment.pdf](https://github.com/shubhamshukla7794/ShubhamKShukla_ORMandSpringMVCAssignmentSolution/blob/main/Customer%20Relationship%20Management%20Screenshots.pdf "Customer Relationship Management Screenshots.pdf")
+You can also view all the screenshots of the project in [Screenshot of the CRMAssignment.pdf](https://github.com/SameerPhD/sameerGajghate_ORMandSpringMVCAssignmentSolution/blob/main/Screenshot%20of%20the%20CRMAssignment.pdf "[Screenshot of the CRMAssignment.pdf)
 
 ## Assignment submitted by
 **Sameer S Gajghate**
