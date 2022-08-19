@@ -23,7 +23,7 @@ This Spring MVC application, after running it on the server, can be accessed at 
 
 - The Customer Relationship Management uses the MySQL database. It uses the default port for MySQL i.e. `3306` and the Database name is `customerrelationshipmanagement`
 - To create the database use the [customerrelationshipmanagement.sql](https://github.com/SameerPhD/sameerGajghate_ORMandSpringMVCAssignmentSolution/blob/main/customerrelationshipmanagement.sql "customerrelationshipmanagement.sql") script
-- Change the **username** and **password** in the [customer-relationship-management-mvc-servlet.xml](https://github.com/shubhamshukla7794/ShubhamKShukla_ORMandSpringMVCAssignmentSolution/blob/main/CustomerRelationshipManagement/src/main/webapp/WEB-INF/customer-relationship-management-mvc-servlet.xml "customer-relationship-management-mvc-servlet.xml") to match your **username** and **password** of MySQL
+- Change the **username** and **password** in the [customer-relationship-management-mvc-servlet.xml](https://github.com/SameerPhD/sameerGajghate_ORMandSpringMVCAssignmentSolution/blob/main/CustomerRelationshipManagement/src/main/webapp/WEB-INF/customer-relationship-management-mvc-servlet.xml "customer-relationship-management-mvc-servlet.xml") to match your **username** and **password** of MySQL
 
 
 ## Application
