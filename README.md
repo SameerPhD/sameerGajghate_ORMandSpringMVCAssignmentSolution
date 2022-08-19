@@ -1,1 +1,1 @@
-# SameerGajghate_ORMandSpringMVCAssignmentSolution
+# sameerGajghate_ORMandSpringMVCAssignmentSolution
